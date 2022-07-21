@@ -1,0 +1,20 @@
+{
+  "name": "js-program-test",
+  "version": "1.0.0",
+  "description": "connection to MongoDb",
+  "main": "vcode.js",
+  "scripts": {
+    "start": "vcode.js",
+    "dev": "vcode.js"
+  },
+  "author": "john wandera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.5",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
